@@ -1,0 +1,37 @@
+W celu dodania nowego poziomu nale¿y:
+1.Wejœæ z miejsca g³ównej aplikacji z roszczerzeniem .jar do katalogu data.
+2. Utworzyæ nowy plik(tekstowy)(z rozszerzeniem .txt). Np. level2.txt
+3. W pliku tekstowym dodaæ wed³ug przyk³adu wybrane s³ówka.
+Musi to byæ minimum 8 s³ówek.
+Przyk³ad:
+wyk³adnik|exponent|no description|?$?
+indeks dolny|subscript|no description|?$?
+indeks górny|superscript|no description|?$?
+
+Jak widaæ ka¿da linia ma oddzielone czêœci znakiem | oraz jest zakoñczona kombinacj¹ znaków |?$?.
+Przy dodawaniu s³ówek, mo¿na u¿ywaæ dowolnej kombinacji znaków, oprócz:
+<?&?> 
+</?&?> 
+?# 
+|
+U¿ycie tych ci¹gów znaków w nieodpowiedni sposób, mo¿e skutkowaæ b³êdami przy wczytywaniu poziomu(Np. poziom bêdzie siê ³adowa³ w nieskoñczonoœæ).
+Nale¿y te¿ dopilnowaæ, aby koñcowy plik ze s³ówkami, nie zawiera³ pustych wierszy
+S³ówka musz¹ byæ w lini równo pod sob¹.
+
+Mo¿emy dodawaæ synonimy s³ówek angielskich(tylko angielskich).
+Wystarczy, ¿e po s³ówku angielskim dodamy nastêpuj¹co:
+<?&?>
+?#Synonim
+?#Synonimnr2
+</?&?>
+Np.
+Pocz¹tkowa postaæ:
+zmia¿d¿yæ|smash|to cause something to break into small pieces (using large force)|?$?
+
+Postaæ koñcowa:
+zmia¿d¿yæ|smash<?&?>?#to smash?#crunch?#mangle?#to mangle</?&?>|to cause something to break into small pieces (using large force)|?$?
+
+4. Po dodaniu pliku, mo¿emy wejœæ do gry i za³adowaæ poziom.
+Zauwa¿, ¿e jeœli nie przet³umaczysz s³ówek i zaznaczysz opcjê grania w trybie t³umaczenia z angielskiego na polski, to gra nie bêdzie mia³a sensu.
+Musisz wtedy dodaæ Polski odpowiednik s³ówka.
+

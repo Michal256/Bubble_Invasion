@@ -1,0 +1,8 @@
+podstawa potęgowania|base of an exponential expression|no description|?$?
+wykładnik|exponent|no description|?$?
+indeks dolny|subscript|no description|?$?
+indeks górny|superscript|no description|?$?
+indeks|index|no description|?$?
+kwadrat, podnieść do kwadratu|square|no description|?$?
+sześcian, podnieść do sześcianu|cube|no description|?$?
+wyrażenie podpierwiastkowe|radicand|no description|?$?

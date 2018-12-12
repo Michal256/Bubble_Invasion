@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="GameMenu.SelectLevel">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="CardLayout" hgap="131" vgap="80">
+    <constraints>
+      <xy x="20" y="20" width="726" height="487"/>
+    </constraints>
+    <properties>
+      <background color="-13288575"/>
+      <font size="14" style="1"/>
+      <foreground color="-12089021"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <grid id="d96b2" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints>
+          <card name="Card1"/>
+        </constraints>
+        <properties>
+          <background color="-13288575"/>
+          <font size="14" style="1"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <hspacer id="9dfed">
+            <constraints border-constraint="West"/>
+          </hspacer>
+          <hspacer id="d865">
+            <constraints border-constraint="East"/>
+          </hspacer>
+          <vspacer id="15373">
+            <constraints border-constraint="North"/>
+          </vspacer>
+          <vspacer id="333a6">
+            <constraints border-constraint="South"/>
+          </vspacer>
+          <grid id="6d3a6" layout-manager="GridLayoutManager" row-count="9" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints border-constraint="Center"/>
+            <properties>
+              <background color="-13288575"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="a3be3" class="javax.swing.JComboBox" binding="level">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-13487566"/>
+                  <font size="16" style="1"/>
+                  <foreground color="-1"/>
+                </properties>
+              </component>
+              <grid id="d19b3" layout-manager="GridLayoutManager" row-count="1" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+                <margin top="0" left="0" bottom="0" right="0"/>
+                <constraints>
+                  <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-13288575"/>
+                </properties>
+                <border type="etched">
+                  <font/>
+                  <title-color color="-13487566"/>
+                </border>
+                <children>
+                  <component id="ca89d" class="javax.swing.JRadioButton" binding="a20Waves">
+                    <constraints>
+                      <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                    </constraints>
+                    <properties>
+                      <background color="-13288575"/>
+                      <font size="16" style="1"/>
+                      <foreground color="-1"/>
+                      <text value="20"/>
+                    </properties>
+                  </component>
+                  <component id="951f1" class="javax.swing.JRadioButton" binding="a40Waves">
+                    <constraints>
+                      <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                    </constraints>
+                    <properties>
+                      <background color="-13288575"/>
+                      <font size="16" style="1"/>
+                      <foreground color="-1"/>
+                      <text value="40"/>
+                    </properties>
+                  </component>
+                  <component id="36d49" class="javax.swing.JRadioButton" binding="allWaves">
+                    <constraints>
+                      <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                    </constraints>
+                    <properties>
+                      <background color="-13288575"/>
+                      <font size="16" style="1"/>
+                      <foreground color="-1"/>
+                      <selected value="true"/>
+                      <text value="All"/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+              <component id="4205d" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="16" style="1"/>
+                  <foreground color="-1"/>
+                  <text value="Number of waves"/>
+                </properties>
+              </component>
+              <grid id="8b641" layout-manager="GridLayoutManager" row-count="1" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+                <margin top="0" left="0" bottom="0" right="0"/>
+                <constraints>
+                  <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-13288575"/>
+                </properties>
+                <border type="etched"/>
+                <children>
+                  <component id="ab0a5" class="javax.swing.JRadioButton" binding="typeEng">
+                    <constraints>
+                      <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                    </constraints>
+                    <properties>
+                      <background color="-13288575"/>
+                      <font size="16" style="1"/>
+                      <foreground color="-1"/>
+                      <selected value="true"/>
+                      <text value="English"/>
+                    </properties>
+                  </component>
+                  <component id="3886d" class="javax.swing.JRadioButton" binding="typePl">
+                    <constraints>
+                      <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                    </constraints>
+                    <properties>
+                      <background color="-13288575"/>
+                      <font size="16" style="1"/>
+                      <foreground color="-1"/>
+                      <text value="Polish"/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+              <component id="a117d" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="16" style="1"/>
+                  <foreground color="-1"/>
+                  <text value="Bubbles content language"/>
+                </properties>
+              </component>
+              <grid id="f6ef6" layout-manager="GridLayoutManager" row-count="1" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+                <margin top="0" left="0" bottom="0" right="0"/>
+                <constraints>
+                  <grid row="8" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-13288575"/>
+                  <enabled value="true"/>
+                </properties>
+                <border type="none"/>
+                <children>
+                  <component id="d5726" class="javax.swing.JButton" binding="okButton">
+                    <constraints>
+                      <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                    </constraints>
+                    <properties>
+                      <background color="-13487566"/>
+                      <font size="16" style="1"/>
+                      <foreground color="-1"/>
+                      <text value="Ok"/>
+                    </properties>
+                  </component>
+                  <component id="96fa7" class="javax.swing.JButton" binding="backButton">
+                    <constraints>
+                      <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                    </constraints>
+                    <properties>
+                      <background color="-13487566"/>
+                      <font size="16" style="1"/>
+                      <foreground color="-1"/>
+                      <text value="Back"/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+              <component id="3cf28" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-1"/>
+                  <enabled value="true"/>
+                  <font size="22" style="1"/>
+                  <foreground color="-1"/>
+                  <text value="Select level"/>
+                </properties>
+              </component>
+              <component id="39d83" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="16" style="1"/>
+                  <foreground color="-1"/>
+                  <text value="Player name"/>
+                </properties>
+              </component>
+              <component id="7956" class="javax.swing.JTextField" binding="player1TextField" default-binding="true">
+                <constraints>
+                  <grid row="7" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <background color="-10855846"/>
+                  <font size="16" style="1"/>
+                  <foreground color="-1"/>
+                  <text value="Player1"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+        </children>
+      </grid>
+    </children>
+  </grid>
+  <buttonGroups>
+    <group name="bG1">
+      <member id="ca89d"/>
+      <member id="951f1"/>
+      <member id="36d49"/>
+    </group>
+    <group name="bG2">
+      <member id="ab0a5"/>
+      <member id="3886d"/>
+    </group>
+  </buttonGroups>
+</form>

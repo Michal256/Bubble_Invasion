@@ -1,0 +1,59 @@
+(See description)|back up|to store a copy of data on a storage device to keep it safe|?$?
+główna ścieżka danych(sieci komputerowe)|backbone|the main transmission path handling the major data traffic connecting different LANs together|?$?
+przechowywanie kopii zapasowej|backing storage|this means that data is held when the computer is switched off and can be loaded onto a computer system when required|?$?
+(See description)|backup|the process of storing a copy of data on a storage device to keep if safe; the term used for the copied data|?$?
+przepustowość(łącza)|bandwidth|the range of frequencies that can be transmitted over a communications channel|?$?
+czytnik kodów kreskowych|barcode reader|a scanning device that can read barcodes as input|?$?
+kod kreskowy|barcode|a sequence of vertical parallel lines used to give items a unique identification number|?$?
+(See description)|backing storage|this means that data is held when the computer is switched off and can be loaded onto a computer system when required|?$?
+tryb wsadowy|batch mode|performing a particular operation automatically on a group of files all at once rather than manually opening, editing and saving one file at a time|?$?
+plik wsadowy|batch file|a program that runs without any terminal or user interaction, typically performing large scale updates, produce reports, or handle housekeeping functions|?$?
+(See description)|baud|a unit of transmission speed equal to the number of times a signal changes state per second|?$?
+kształtowanie wiązki|beamforming|focusing a Wi-Fi signal in a specific direction|?$?
+część lini ISDN przesyłająca dane|bearer channel|the common name for the part of an ISDN line that carries the data|?$?
+(See description)|beerware|a relaxed license, with the user encouraged to pay for the software by donating to its author enough money to buy a beer|?$?
+test wydajności|benchmark|a test used to measure the relative performance of hardware or software products, e.g. if you want to know which of two computers is faster|?$?
+(See description)|bespoke|in technology, software made to meet the customer's demands and requirements|?$?
+(See description)|beta version|a pre-release version of software or an application program that contains most of the major features, but is not yet complete|?$?
+dwukierunkowa ramka|bi-directional frame|a type of image frame used in MPEG compression, situated between I and P frames storing the differences in the image compared with the I or P frame both before and after it|?$?
+(See description)|binary adder|the part of the arithmetic-logic unit which performs binary addition and subtractionsumatorbinarny|?$?
+(See description)|binary arithmetic|arithmetic done to the base 2 using only 0 and 1 as its basic digits|?$?
+liczba binarna|binary number|a number (0 or 1) used in binary arithmetic|?$?
+drzewo binarne|Binary Search Tree|a binary tree in which every node contains only smaller values in its left subtree and only larger values in its right subtree|?$?
+(See description)|biometric device|a security or medical device that measures biological elements in order to perform functions such as logging health/fitness data and authenticating users, e.g. a fingerprint reader or an eye scanner|?$?
+biometria|biometrics|the science that uses computer technology to identify people based on physical features, such as fingerprints or voice scans|?$?
+(See description)|BIOS|a part of the operating system stored on a ROM chip that controls the input and output of data to peripherals|?$?
+dwustabilny|bistable|circuit whose output can have one of two stable states, i.e. on or off|?$?
+(See description)|bit|a small unit of storage capacity, one of the eight binary digits that make up a byte|?$?
+(See description)|bitcoin|a digital asset created by Satoshi Nakamoto in 2009 to work as a medium of exchange using cryptography to secure the transactions and to control the creation of additional units|?$?
+(See description)|bitcoin mining|a decentralized process of adding a block in a blockchain and creating new bitcoins|?$?
+(See description)|bitmap compression|a way of reducing the size of a stored image where different digital bits or collections of bits are used to describe each element of an image|?$?
+(See description)|bitmap|a computer image formed from pixels which are each stored as a value of one or more bits (= units of information)|?$?
+(See description)|bit-mapped|describing the image displayed on a computer screen whereby each pixel corresponds to one or more bits in memory|?$?
+(See description)|block|a collection of data stored together and treated as a single unit|?$?
+(See description)|blogger|someone who writes a blog|?$?
+(See description)|Blue Screen of Death|an error screen displayed after a fatal Windows operating system error; also known as a stop error or stop screen|?$?
+(See description)|bluesnarfing|a hacking attack that uses a Bluetooth connection to access a mobile device|?$?
+(See description)|bluetooth|the name of a high-speed microwave wireless network system developed by a group of companies consisting of Ericsson, IBM, Intel, Nokia and Toshiba; it is used with portable equipment|?$?
+(See description)|bookmark|to store a link to a webpage to make it easier to find in the future|?$?
+(See description)|boolean algebra|an algebra closely related to logic in which the symbols do not represent arithmetic quantities|?$?
+(See description)|boot loader|a small program that places the operating system of a computer into memory|?$?
+(See description)|boot sector virus|a self-replicating program that stores itself in the part of a disk containing the programs used to start up a computer|?$?
+(See description)|boot|to copy a part of the operating system into memory to allow a computer to start up|?$?
+ujmowanie w nawias|bracketing|setting the boundaries of a message or part of a message by marking its beginning and its end with special control bits|?$?
+(See description)|breadcrumb|navigation aid used in user interfaces allowing users to keep track of the locations within programs or documents|?$?
+(See description)|brick-and-click|banks or other companies that offer physical locations and online services|?$?
+(See description)|brick-and-mortar|banks or other companies that don’t have a Web presence|?$?
+(See description)|bridge|a hardware and software combination used to connect the same type of networks or partition a large network into two smaller ones|?$?
+szerokopasmowy|broadband|able to carry signals transmitted over a wide range of frequencies|?$?
+rozgłaszać(sygnał)|broadcast|transmit signals that can be picked up by a large number of receivers|?$?
+przeglądarka|browser|a program used for displaying webpages|?$?
+dodatek do przeglądarki|browser add-on|program integrated into your browser application, usually providing additional functionality|?$?
+(See description)|brute force attack|a type of cryptanalytic attack based on checking all possible combinations of a password|?$?
+(See description)|buffering|a process of temporarily storing data from a fast source so that it can be fed at a steady rate to slower system|?$?
+(See description)|bug|a fault in a system|?$?
+wbudowany|built-in|being an essential and permanent part of something, instilled, infused, integrated|?$?
+tablica ogłoszeń|bulletin board|an electronic noticeboard system that enables users to display messages for other users to read|?$?
+topologia magistrali|bus network|a network setup in which each computer and network device are connected to a single cable or backbone|?$?
+szyna danych|bus|a set of conductors that carry signals between different parts of computer|?$?
+(See description)|byte|unit of storage capacity, made up of eight bits and stores one character, i.e. a letter, a number, a space or a punctuation mark|?$?

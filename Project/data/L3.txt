@@ -1,0 +1,103 @@
+ciśnienie|pressure|the force that a liquid or gas produces when it presses against an area|?$?
+zmiażdżyć|smash<?&?>?#to smash?#crunch?#mangle?#to mangle</?&?>|to cause something to break into small pieces (using large force)|?$?
+operacja / działanie / praca|operation|the fact of being active or working|?$?
+nadprzewodnik|super-conductor|a substance which has no resistance at a very low temperature|?$?
+kierunek|direction<?&?>?#way</?&?>|the position towards which someone faces|?$?
+iskra|spark|a small piece of fire that flies out from something burning or a flash of light made by electricity|?$?
+topnieć|melt down|to change a state of an object from solid to liquid|?$?
+łuk elektryczny|electric arc|an electrical breakdown of a gas that produces an ongoing electrical discharge|?$?
+mocowania|mounting|a backing or support for something|?$?
+odpływ|outflow|a movement away from a place (for liquid or gas)|?$?
+wrodzony / wbudowany|inbuilt|existing as an original part of something or someone|?$?
+siła wyporu|upthrust|the upward force that a liquid or gas exerts on an object floating in it|?$?
+siła docisku|downthrust|downward movement of an object under impact or steady pressure|?$?
+płytka drukowana|circuit board|a set of electrical connections fixed onto a surface|?$?
+styk / złącze|joint|a place where two or more things are connected together|?$?
+ścieżka na płytce drukowanej|copper track|a path, on circuit board, which conducts electricity|?$?
+cząstka|particle|an extremely small piece of matter|?$?
+zderzacz cząsteczek|collider|a device which forces particles to hit each other, so scientists can examine them|?$?
+wielki zderzacz hadronów|The Large Hadron Collider|the world's largest and most powerful particle collider|?$?
+schłodzić|cool down|to lower temperature of something|?$?
+opór elektryczny / rezystancja|resistance|the degree to which a substance or device opposes the passage of an electric current|?$?
+ultrafiolet|ultra-violet|an electromagnetic radiation which makes skin darker|?$?
+podczerwień|infrared|an electromagnetic radiation which is used in remote controllers|?$?
+zgodnie z ruchem wskazówek zegara|clockwise|direction in which the hands of a clock move|?$?
+wymiary|dimensions|measurement in length, width, and thickness|?$?
+próżnia|vacuum|a space where is little or no matter|?$?
+zmniejszyć|bring down|to reduce the level of something|?$?
+utrzymywać na niskim poziomie|keep down|to prevent something from an increase|?$?
+wpuścić|let in|to allow something to enter|?$?
+wypuścić|let out|to allow something to escape|?$?
+odraczać|put off|to delay an event or activity|?$?
+zwolnić|slow down|to make something move slower|?$?
+przyśpieszyć|speed up|to make something move faster|?$?
+zużywać|take up|to make something more and more worn out|?$?
+dokonać przeglądu / remontować|overhaul|to examine a machine or a system carefully and improve it or repair it|?$?
+przezwyciężać|overcome|to deal with and control a problem or feeling|?$?
+powłoka / pokrywa|coating|a thin layer that covers the surface of something|?$?
+wprowadzić|roll out|to make a new product, service, or system available for the first time|?$?
+lądowanie|touchdown|the moment at which an aircraft's wheels make contact with the ground during landing|?$?
+przejęcie|takeover|an action of assuming control of something, especially the buying out of one company by another|?$?
+okablowanie|wiring|a system of wires providing electric circuits for a device or building|?$?
+złe dane dają złe wyniki|put garbage in put garbage out|something you say that means that something produced from materials of low quality will also be of low quality|?$?
+szyb|shaft|a long, narrow, typically vertical hole that gives access to a mine|?$?
+zanurzyć|dip in|to put something in water or other liquid|?$?
+układ kontrolny|restraint system|the system to control or moderate one's impulses|?$?
+pękać / wysadzać w powietrze|blow up|burst or shatter violently and noisily as a result of rapid combustion, excessive internal pressure, or other process|?$?
+wykonawca / zleceniobiorca|contractor|a person or company that supplies goods or does work for other people|?$?
+majster / brygadzista|foreman|a worker who supervises and directs other workers|?$?
+przenieść się do tyłu|flash back|to travel quickly back|?$?
+pokrywka / wieczko|lid|the top part of a container that can be removed in order to put something in or take something out|?$?
+szlifować|grind|to sharpen, smooth, or produce something by crushing or by friction|?$?
+ocena ryzyka|risk assessment|a systematic process of evaluating the potential risks that may be involved in a projected activity|?$?
+odzyskać coś straconego|regain|to get something back again|?$?
+wpadać w poślizg|skid|slide, typically sideways or obliquely, on slippery ground or as a result of stopping or turning too quickly|?$?
+posłusznie|obediently|doing, or willing to do, what you have been told to do by someone in authority|?$?
+nawigacja satelitarna|sat-nav|navigation dependent on information received from satellites|?$?
+zaklinować|wedge|to force into a narrow space|?$?
+nalegać / namawiać|urge|to try to persuade someone to do something|?$?
+wzburzone morze|rough|if the sea or weather is _____, there is a lot of strong wind and sometimes rain|?$?
+rumpel (drążek służący do zmiany położenia steru)|tiller|a long handle attached to and used to turn a rudder|?$?
+ustawienie wstępne|preset|a control on electronic equipment or on software that is set or adjusted beforehand to facilitate use|?$?
+kabel|cable|a set of wires which carries electricity|?$?
+kalafonia|rosin|a substance which makes soldering easier by cleaning surface|?$?
+na zewnątrz (o kierunku)|outwards|away from the center or a particular point|?$?
+nożyce do drutu|wirecutters|a tool used to cut wires|?$?
+obieg powietrza|air circulation|the natural or mechanically induced movement of air|?$?
+opornik|resistor|a device which implements electrical resistance as a circuit element|?$?
+pobielać|tin|to thinly cover sheets of steel or iron with tin|?$?
+przekładnia|gear|a rotating machine part having cut teeth, or cogs|?$?
+sprzęgło|clutch pedal|a mechanical device which engages and disengages power transmission|?$?
+tranzystor|transistor|a semiconductor device used to amplify or switch electronic signals and electrical power|?$?
+równoczesny|simultaneous|happening at the same time|?$?
+równoległy|parallel|extending in the same direction|?$?
+równy z|flush to|evenly aligned with|?$?
+spawarka|welding torch|a device that uses fuel gases and oxygen to weld and cut metals|?$?
+acetylen|acetylene|a colorless gas, having an etherlike odor, produced usually by the action of water on calcium carbide or by pyrolysis of natural gas|?$?
+regulator|regulator|a device for maintaining a constant gas pressure|?$?
+pręt wypełniacza|filler rod|a metal added in the making of a joint through welding, brazing, or soldering|?$?
+tlen|oxygen|a colorless, odorless, gaseous element constituting about one-fifth of the volume of the atmosphere|?$?
+spoina / szew spawalniczy / spaw|weld seam|a metal trace left after welding|?$?
+elektroda|electrode|an electrical conductor used to make contact with a nonmetallic part of a circuit|?$?
+kabel uziemienia|grounding wire|a part of the current that leads the electricity to the ground|?$?
+przepływ|flux|an amount that describes the quantity which passes through a surface or substance|?$?
+spawanie łukowe|arc welding|a process that is used to join metal to metal by using electricity to create enough heat to melt it|?$?
+spawanie|torch welding|a process that is used to join metal to metal by creating a high temperature using fuel gases and oxygen|?$?
+bęben przedmuchu|blowdown drum|a container for water intentionally wasted from a boiler to avoid concentration of impurities during continuing evaporation of steam|?$?
+wskaźnik poziomu|level indicator|a device used to measure level of liquid and other fluids|?$?
+wieża rozdzielacza|splitter tower|a structure that splits the energy beam|?$?
+para|vapour|a substance diffused or suspended in the air, especially one normally liquid or solid|?$?
+ropa naftowa|pertoleum|a liquid mixture of hydrocarbons that is present in certain rock strata and can be extracted and refined to produce fuels|?$?
+koncentracja|build-up|a gradual accumulation or increase, typically of something negative and typically leading to a problem or crisis|?$?
+wybuch|outburst|a violent and destructive shattering or blowing apart of something, as is caused by a bomb|?$?
+wylot|outlet|a pipe or hole through which water or gas may escape|?$?
+powodować|bring about|to cause something|?$?
+wytwarzać|build up|to create something|?$?
+wykonać|carry out|to do a particular piece of work|?$?
+zapełniać|fill up|to make something full|?$?
+wystrzelić|go off|to explode or to be fired|?$?
+wzrastać|go up|to increase|?$?
+rozgrzać|heat up|to make something hot|?$?
+przelać|overflow|to flow over the top of a container because it is too full|?$?
+wykluczyć|rule out|to stop considering something as a possibility|?$?
+wywołać|set off|to cause something to operate, especially by accident|?$?

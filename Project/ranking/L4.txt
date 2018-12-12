@@ -1,0 +1,7 @@
+Player1|5|17
+Player1|5|55
+Player1|4|75
+Player1|-1|72
+Player1|-5|70
+Player1|4|41
+Player1|-1|13

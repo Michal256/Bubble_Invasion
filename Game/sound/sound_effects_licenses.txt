@@ -1,0 +1,14 @@
+Sound effets downloaded from opengameart.org.
+
+License for fireball.wav:
+CC-BY 3.0
+Author: Artisticdude
+
+License for bubblepop.wav:
+CC0
+Author: Farfadet46
+
+License for shimmer.wav:
+CC-BY 3.0
+Author: The Berklee College of Music
+

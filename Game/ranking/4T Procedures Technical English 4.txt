@@ -1,0 +1,6 @@
+Michal|-2|125
+Michal|10|115
+Michal|20|83
+Player1|-1|83
+Player1|1|62
+Player1|-20|54

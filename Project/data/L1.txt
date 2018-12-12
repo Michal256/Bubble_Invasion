@@ -1,0 +1,26 @@
+podstawa potęgowania|base of an exponential expression|no description|?$?
+wykładnik|exponent|no description|?$?
+indeks dolny|subscript|no description|?$?
+indeks górny|superscript|no description|?$?
+indeks|index|no description|?$?
+kwadrat, podnieść do kwadratu|square|no description|?$?
+sześcian, podnieść do sześcianu|cube|no description|?$?
+wyrażenie podpierwiastkowe|radicand|no description|?$?
+pierwiastek|root|no description|?$?
+znak pierwiastka, symbol pierwiastka|radical sign|no description|?$?
+pierwiastek kwadratowy|square root|no description|?$?
+pierwiastek arytmetyczny|principal root|no description|?$?
+niewymierny pierwiastek kwadratowy liczby całkowitej|surd|no description|?$?
+potęga ułamkowa|rational power|no description|?$?
+postać wykładnicza|scientific notation|no description|?$?
+wyciągać pierwiastek|extract a root|no description|?$?
+podnosić liczbę do potęgi|raise a number to a power|no description|?$?
+logarytm zwykły, logarytm dziesiętny|common logarithm|no description|?$?
+logarytm naturalny|natural logarithm|no description|?$?
+podstawa logarytmu|base of the logarithm|no description|?$?
+działania na logarytmach naturalnych i zwykłych|natural and common logarithm operations|no description|?$?
+obliczyć logarytm|take a logarithm|no description|?$?
+obciąć (np. dalsze cyfry ułamka)|truncate|no description|?$?
+przekształcić wyrażenie|transpose a formula|no description|?$?
+przekształcić równanie|transpose an equation|no description|?$?
+silnia|factorial|no description|?$?
